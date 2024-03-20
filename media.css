@@ -53,13 +53,13 @@
     width: 40%;
   }
   header {
-    width: 100%;
+    width: 98%;
   }
   .banner {
-    width: 100%;
+    width: 98%;
   }
   .jobPost {
-    width: 100%;
+    width: 98%;
   }
 }
 @media (max-width: 435px) {
