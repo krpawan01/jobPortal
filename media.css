@@ -1,0 +1,75 @@
+@media (max-width: 1050px) {
+  html {
+    font-size: 85%;
+  }
+  /* .hide1 {
+    display: none;
+  } */
+}
+@media (max-width: 900px) {
+  html {
+    font-size: 75%;
+  }
+  .logo img {
+    width: 80%;
+  }
+  /* .hide2 {
+    display: none;
+  } */
+}
+@media (max-width: 830px) {
+  html {
+    font-size: 70%;
+  }
+  .logo img {
+    width: 60%;
+  }
+  /* .hide3 {
+    display: none;
+  } */
+}
+@media (max-width: 720px) {
+  html {
+    font-size: 55%;
+  }
+  .logo img {
+    width: 50%;
+  }
+  header {
+    width: 90%;
+  }
+  .banner {
+    width: 90%;
+  }
+  .jobPost {
+    width: 90%;
+  }
+}
+@media (max-width: 576px) {
+  html {
+    font-size: 45%;
+  }
+  .logo img {
+    width: 40%;
+  }
+  header {
+    width: 100%;
+  }
+  .banner {
+    width: 100%;
+  }
+  .jobPost {
+    width: 100%;
+  }
+}
+@media (max-width: 435px) {
+  html {
+    font-size: 40%;
+  }
+  .title h1 {
+    font-size: 3rem;
+  }
+  .title p {
+    font-size: 2rem;
+  }
+}
